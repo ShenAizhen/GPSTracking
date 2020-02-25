@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/images/nav_adjusts_80x80.svg</file>
+        <file>qml/images/nav_arrow_80x80.svg</file>
+        <file>qml/images/nav_zoom-in_80x80.svg</file>
+        <file>qml/images/nav_zoom-out_80x80.svg</file>
+        <file>shaders/instances_vertex.glsl</file>
+        <file>shaders/instances_frag.glsl</file>
+        <file>shaders/segment_vertex.glsl</file>
+        <file>shaders/segment_frag.glsl</file>
+        <file>qml/GPSTracking/main.qml</file>
+        <file>qml/GPSTracking/SetButton.qml</file>
+        <file>shaders/pathing_vertex.glsl</file>
+        <file>shaders/pathing_frag.glsl</file>
+        <file>shaders/pathing2_vertex.glsl</file>
+        <file>shaders/pathing2_frag.glsl</file>
+        <file>qml/GPSTracking/Velocimeter.qml</file>
+    </qresource>
+</RCC>
